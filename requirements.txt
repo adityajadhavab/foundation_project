@@ -1,3 +1,3 @@
+pandas
 pycaret
-pandas==0.23.3
 
